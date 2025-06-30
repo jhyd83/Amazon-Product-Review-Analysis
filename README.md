@@ -5,8 +5,15 @@
 ### Project Description:
 Analysis of the products of Amazon using product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
-### Tool Used
+### Data Source
+The data source is an Amazon Case Study Excel file extracted from Amazon product pages
+
+### Tools Used
 Microsoft excel was the tool used in the analysis of the provided dataset. The dataset contains 1465rows with 16columns.
+ - For Data Collection
+ - For Data Cleaning
+ - For Data Analysis
+ - For Presentation
 
 ### Assumptions
 The dataset contains duplicated columns with two blank cells and one containing a symbol. The dataset was cleaned up using excel functions to remove the duplicated rows which was 114rows in total while the two blank & one symbol cells were assumed to have the figure zero and so were replaced with “0”.

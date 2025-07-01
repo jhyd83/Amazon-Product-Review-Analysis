@@ -27,12 +27,13 @@ Findings from the analysis of the dataset shows that there are nine categories o
 There are 850products with prices >₹500 which is more than half of the whole number of products, this goes to show that it is either they essential products or has quality that beats other similar products. Potentially products in the Electronics category have the capacity to generate over ₹91.3m which represents about 80% of potential revenue when considering a combination of the number of reviews and actual price. The products under the Computer & Accessories category have the highest discounts of 94% while the top 3 products that enjoyed the highest rating & number of reviews combined all fell under the Electronics Category.
 
 ### Conclusion/Recommendation
-In conclusion, the company should pay more attention to the reviews for the products that fall under the Electronics especially on how to improve on those products because these constitute more than 60% of the company’s revenue when you compare Electronics price to the entire products prices both actual and discounted values with 80% potential revenue.
+In conclusion, the company should pay more attention to the reviews for the products that fall under the Electronics especially on how to improve on those products because these constitute more than 60% of the company’s revenue when you compare Electronics price to the entire products prices both actual and discounted values with 80% potential revenue leaving 20% for other categories.
 
-Category	                              Discounted Price ₹	      Actual Price ₹
-Electronics                              	3,050,676	               5,104,861
-Entire Categories	                        4,464,787.17	            7,688,779.62
-Electronics % to Entire Categories	           68.33%	                 66.39%
+| Category | Discounted Price ₹ | Actual Price ₹ |
+| --------- | ------------------- | -------------- |
+| Electronics | 3,050,676 | 5,104,861 |
+| Entire Categories	| 4,464,787.17	| 7,688,779.62 |
+| Electronics % to Entire Categories | 68.33%	| 66.39% |
 
 
 
